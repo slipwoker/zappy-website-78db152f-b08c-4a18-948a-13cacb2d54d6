@@ -7093,6 +7093,11 @@ body.a11y-dyslexia-font * {
   display: inline-flex !important;
   align-items: center !important;
 }
+
+.nav-cta-btn {
+  color: #ffffff !important;
+  font-weight: 600;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
