@@ -2,13 +2,13 @@
 
 Smart Media is an ultra-premium Israeli digital marketing agency positioning itself as a futuristic, American-standard powerhouse in a local market dominated by low-quality agencies. The brand identity fuses cyberpunk aesthetics with elite B2B authority — think quantum computing meets Madison Avenue. Their core narrative is bringing US-level SLAs, AI-driven strategies, and hyper-advanced analytics to Israeli SMBs, with a prophetic, ROI-obsessed tone. Services span paid ads (Google, Meta, TikTok), conversion-optimized web builds, generative AI creative production (videos, images, logos), and full-service CMO-level partnerships under a 6-month strategic commitment model.
 
-Source: https://smart-media-78db152f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## סוכנות שיווק דיגיטלי לעסקים — Smart Media
 
-URL: https://smart-media-78db152f.zappy5.app
+URL: https://example.com
 Description: Smart Media is an ultra-premium Israeli digital marketing agency positioning itself as a futuristic, American-standard powerhouse in a local market dominated by
 
 סוכנות שיווק דיגיטלי לעסקים — Smart Media
@@ -1074,7 +1074,7 @@ Smart Media מיועדת לעסקים שמבינים שצמיחה אמיתית �
 
 ## מדיניות פרטיות
 
-URL: https://smart-media-78db152f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1326,7 +1326,7 @@ Smart Media ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://smart-media-78db152f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1587,7 +1587,7 @@ Smart Media מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://smart-media-78db152f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
