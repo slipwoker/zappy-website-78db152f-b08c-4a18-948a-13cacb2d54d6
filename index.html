@@ -1898,7 +1898,91 @@
     <i class="fab fa-whatsapp"></i>
   </a>
   
-  <div data-integration="accessibility:toolbar"></div>
+  <style>
+#acctoolbar-btn {
+  left: 0 !important;
+  right: auto !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  z-index: 999999 !important;
+}
+#acctoolbar-panel {
+  left: 0 !important;
+  right: auto !important;
+}
+</style>
+
+<script>
+(function() {
+  function initA11y() {
+    if (typeof AccToolbar !== 'undefined') {
+      AccToolbar.init({
+        lang: 'he',
+        position: 'left',
+        icon: '&#9855;',
+        title: 'נגישות',
+        labels: {
+          title: 'אפשרויות נגישות',
+          increaseText: 'הגדל טקסט',
+          decreaseText: 'הקטן טקסט',
+          invertColors: 'ניגודיות גבוהה',
+          grayHues: 'גווני אפור',
+          underlineLinks: 'הדגש קישורים',
+          bigCursor: 'סמן גדול',
+          readingGuide: 'מדריך קריאה',
+          textToSpeech: 'הקראת טקסט',
+          speech: 'ניווט קולי',
+          resetTitle: 'איפוס',
+          closeTitle: 'סגור'
+        }
+      });
+    } else {
+      setTimeout(initA11y, 300);
+    }
+  }
+  window.addEventListener('load', initA11y);
+})();
+</script>
+
+    <div data-integration="accessibility:toolbar"></div>
+<script>
+(function() {
+  window.addEventListener('load', function() {
+    if (typeof AccToolbar === 'undefined') return;
+    AccToolbar.init({
+      lang: 'he',
+      position: 'left',
+      icon: '&#9855;',
+      title: 'נגישות',
+      features: {
+        increaseText: true,
+        decreaseText: true,
+        invertColors: true,
+        grayHues: true,
+        underlineLinks: true,
+        bigCursor: true,
+        readingGuide: true,
+        textToSpeech: true,
+        speech: true
+      },
+      labels: {
+        title: 'אפשרויות נגישות',
+        increaseText: 'הגדל טקסט',
+        decreaseText: 'הקטן טקסט',
+        invertColors: 'ניגודיות גבוהה',
+        grayHues: 'גווני אפור',
+        underlineLinks: 'הדגש קישורים',
+        bigCursor: 'סמן גדול',
+        readingGuide: 'מדריך קריאה',
+        textToSpeech: 'הקראת טקסט',
+        speech: 'ניווט קולי',
+        resetTitle: 'איפוס',
+        closeTitle: 'סגור'
+      }
+    });
+  });
+})();
+</script>
 
     <script src="/script.js"></script>
 
