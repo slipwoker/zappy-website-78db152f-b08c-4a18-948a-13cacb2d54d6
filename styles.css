@@ -6873,6 +6873,49 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   position: relative;
   z-index: 2;
 }
+
+.index-benefits-section .ibs-panel-figure {
+  width: 100%;
+  height: 140px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  padding: 0 4px;
+  position: relative;
+}
+
+.index-benefits-section .ibs-panel-figure::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to top,
+    rgba(40,224,198,0.06) 0px,
+    rgba(40,224,198,0.06) 1px,
+    transparent 1px,
+    transparent 28px
+  );
+  pointer-events: none;
+}
+
+.index-benefits-section .ibs-panel-figure::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(40,224,198,0.18) 0%, transparent 100%);
+  pointer-events: none;
+}
+
+.index-benefits-section .ibs-panel-figure svg.chart-svg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
