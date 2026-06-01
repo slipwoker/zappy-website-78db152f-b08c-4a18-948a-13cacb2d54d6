@@ -7081,6 +7081,18 @@ body.a11y-dyslexia-font * {
   word-spacing: 0.12em !important;
   line-height: 1.8 !important;
 }
+
+.nav-cta-btn {
+  background: var(--accent) !important;
+  color: var(--background-color) !important;
+  padding: 10px 22px !important;
+  border-radius: var(--radius-btn) !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  text-decoration: none !important;
+  display: inline-flex !important;
+  align-items: center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
