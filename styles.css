@@ -6851,6 +6851,28 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-benefits-section .ibs-panel-stack {
+  position: relative;
+  padding-bottom: 60px;
+}
+
+.index-benefits-section .ibs-back-panel {
+  position: absolute;
+  bottom: 0;
+  inset-inline-start: 24px;
+  inset-inline-end: -24px;
+  z-index: 1;
+  border-radius: 14px;
+  background: rgba(10, 7, 25, 0.65);
+  border: 1px solid rgba(139,92,246,0.22);
+  backdrop-filter: blur(10px);
+}
+
+.index-benefits-section .ibs-main-panel {
+  position: relative;
+  z-index: 2;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
