@@ -1,0 +1,73 @@
+# Smart Media — Generative Engine Optimization Map
+
+> Smart Media is an ultra-premium Israeli digital marketing agency positioning itself as a futuristic, American-standard powerhouse in a local market dominated by low-quality agencies. The brand identity fuses cyberpunk aesthetics with elite B2B authority — think quantum computing meets Madison Avenue. Their core narrative is bringing US-level SLAs, AI-driven strategies, and hyper-advanced analytics to Israeli SMBs, with a prophetic, ROI-obsessed tone. Services span paid ads (Google, Meta, TikTok), conversion-optimized web builds, generative AI creative production (videos, images, logos), and full-service CMO-level partnerships under a 6-month strategic commitment model.
+
+---
+
+## Pages
+
+### בית
+https://smart-media-78db152f.zappy5.app
+Smart Media is an ultra-premium Israeli digital marketing agency positioning itself as a futuristic, American-standard powerhouse in a local market dominated by
+
+## Legal & Policy
+
+### Privacy Policy
+https://smart-media-78db152f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://smart-media-78db152f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://smart-media-78db152f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://smart-media-78db152f.zappy5.app
+- Endpoint: https://smart-media-78db152f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Smart Media
+Smart Media is an ultra-premium Israeli digital marketing agency positioning itself as a futuristic, American-standard powerhouse in a local market dominated by low-quality agencies. The brand identity fuses cyberpunk aesthetics with elite B2B authority — think quantum computing meets Madison Avenue. Their core narrative is bringing US-level SLAs, AI-driven strategies, and hyper-advanced analytics to Israeli SMBs, with a prophetic, ROI-obsessed tone. Services span paid ads (Google, Meta, TikTok), conversion-optimized web builds, generative AI creative production (videos, images, logos), and full-service CMO-level partnerships under a 6-month strategic commitment model.
+
+## Services/Products
+- Quantum Ad-Management (Google, Meta, TikTok)
+- High-Convert Web Nodes (sales websites & landing pages)
+- Generative AI Creative Studio (AI videos, images, logos)
+- End-to-End Client Accommodation (full CMO partnership)
+
+## Target Audience
+- Israeli SMBs (small and medium-sized businesses)
+- בעלי עסקים קטנים ובינוניים
+- סטארטאפים טכנולוגיים פרימיום
+- קמעונאים בתחום היוקרה
+
+## Industry
+Digital Marketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://smart-media-78db152f.zappy5.app/sitemap.xml
+- Robots: https://smart-media-78db152f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://smart-media-78db152f.zappy5.app/llms-full.txt
