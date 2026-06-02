@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: smartmedia.br.ai@gmail.com
+- Phone: 0526052727
+- Phone (tel): tel:0526052727
+- Address: רוטשליד 22, תל אביב, ישראל
 
 ### Contact form
 - URL: https://example.com
