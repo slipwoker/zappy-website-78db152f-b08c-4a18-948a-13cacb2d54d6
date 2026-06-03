@@ -7098,6 +7098,30 @@ body.a11y-dyslexia-font * {
   color: #ffffff !important;
   font-weight: 600;
 }
+
+.index-benefits-section .ibs-back-panel {
+  position: relative !important;
+  left: auto !important;
+  right: auto !important;
+  top: auto !important;
+  bottom: auto !important;
+  width: 100% !important;
+  height: auto !important;
+  z-index: 1 !important;
+  margin-top: 16px !important;
+}
+
+.index-benefits-section .ibs-panel-stack {
+  padding-bottom: 0 !important;
+  max-width: 568px !important;
+  margin: 0 auto !important;
+}
+
+.index-benefits-section .ibs-visual-col {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
