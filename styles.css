@@ -7122,6 +7122,18 @@ body.a11y-dyslexia-font * {
   justify-content: center !important;
   align-items: flex-start !important;
 }
+
+.nav-menu a:focus-visible {
+  outline: 3px solid var(--accent-color) !important;
+  outline-offset: 2px !important;
+  border-radius: 4px;
+}
+
+.site-footer a:focus-visible {
+  outline: 3px solid var(--accent-color) !important;
+  outline-offset: 2px !important;
+  border-radius: 4px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
