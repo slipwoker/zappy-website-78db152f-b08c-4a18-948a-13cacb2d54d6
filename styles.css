@@ -7284,6 +7284,57 @@ footer #mic-access-tool-general-button {
   right: auto !important;
   z-index: 1000000 !important;
 }
+
+body {
+  color: #F6F3FF !important;
+}
+
+.index-hero-section .index-hero-h1-line1 {
+  color: #F6F3FF !important;
+}
+
+.index-testimonials-section,
+.index-testimonials-section h1,
+.index-testimonials-section h2,
+.index-testimonials-section h3,
+.index-testimonials-section p,
+.index-testimonials-section span,
+.index-testimonials-section li,
+.index-testimonials-section blockquote {
+  color: #171327 !important;
+}
+
+.index-testimonials-section .its-quote p {
+  color: #171327 !important;
+}
+
+.index-services-section .iss-card-title,
+.index-services-section .iss-card-desc,
+.index-services-section .iss-card-list li span,
+.index-stats-section .index-stats-section__stat-title,
+.index-stats-section .index-stats-section__stat-desc,
+.index-showcase-section .showcase-band-title,
+.index-showcase-section .showcase-band-text,
+.index-cta-section .index-cta-commitment-text,
+.index-cta-section .index-cta-commitment-title,
+.index-cta-section .index-cta-benefits li span {
+  color: #F6F3FF !important;
+}
+
+.index-cta-section .index-cta-label {
+  color: #F6F3FF !important;
+}
+
+.index-stats-section__number {
+  color: var(--accent-color, var(--accent, #28E0C6)) !important;
+}
+
+.index-benefits-section .ibs-heading,
+.index-benefits-section .ibs-lead,
+.index-benefits-section .ibs-benefit-body h3,
+.index-benefits-section .ibs-benefit-body p {
+  color: #F6F3FF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
