@@ -7335,6 +7335,21 @@ body {
 .index-benefits-section .ibs-benefit-body p {
   color: #F6F3FF !important;
 }
+
+html {
+  height: 100% !important;
+}
+
+body {
+  height: auto !important;
+  min-height: 100vh !important;
+  display: block !important;
+  overflow-x: clip !important;
+  overflow-y: auto !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: relative !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
