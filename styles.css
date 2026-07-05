@@ -7262,6 +7262,12 @@ footer a:focus-visible {
   outline: 3px solid var(--accent-color) !important;
   outline-offset: 4px !important;
 }
+
+html[dir="rtl"] .whatsapp-float {
+  left: unset !important;
+  right: 24px !important;
+  bottom: 100px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
