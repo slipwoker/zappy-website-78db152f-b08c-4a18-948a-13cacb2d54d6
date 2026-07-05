@@ -7274,6 +7274,16 @@ html[dir="rtl"] .whatsapp-float {
   right: 24px !important;
   bottom: 200px !important;
 }
+
+.site-footer #mic-access-tool-general-button,
+footer #mic-access-tool-general-button {
+  position: fixed !important;
+  bottom: 24px !important;
+  left: 16px !important;
+  top: auto !important;
+  right: auto !important;
+  z-index: 1000000 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
