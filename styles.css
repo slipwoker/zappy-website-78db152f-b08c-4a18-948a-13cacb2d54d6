@@ -7268,6 +7268,12 @@ html[dir="rtl"] .whatsapp-float {
   right: 24px !important;
   bottom: 140px !important;
 }
+
+html[dir="rtl"] .whatsapp-float {
+  left: unset !important;
+  right: 24px !important;
+  bottom: 200px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
